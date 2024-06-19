@@ -55,7 +55,7 @@ To get started with the_ml_from_scratch, follow these steps:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/the_ml_from_scratch.git
+git clone https://github.com/PujanMotiwala/the_ml_from_scratch.git
 ```
 
 2. Navigate to the project director
